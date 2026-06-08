@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-ed60244b.zappy5.app
+https://example.com
 מחפש צלם אירועים שמתעד רגעים לא מבוימים? עמית קדר מביא ניסיון עשיר בצילום בר מצווה, בת מצווה, ימי הולדת ואירועים עסקיים. קבל תמונות שמספרות סיפור אמיתי ומרגש. התקשר עוד היום!
 
 ### שירותים
-https://-ed60244b.zappy5.app/services
+https://example.com/services
 זקוק למידע על מחירון צילום אירועים? אנו מציעים שירותי צילום מקצועיים לבר מצוות, אירועים עסקיים וימי הולדת. כל חבילה מותאמת אישית עם ליווי צמוד. בדוק את האפשרויות עכשיו!
 
 ### אודות
-https://-ed60244b.zappy5.app/about
+https://example.com/about
 רוצה להבין מי יעמוד מאחורי העדשה באירוע שלך? עמית קדר, צלם אירועים בעל גישה רגועה וייחודית, מתמחה בלכידת רגשות אמיתיים. קרא עוד על הפילוסופיה שמנחה אותו בכל פרויקט.
 
 ### צור קשר
-https://-ed60244b.zappy5.app/contact
+https://example.com/contact
 מוכן להפוך את האירוע שלך לבלתי נשכח? צור קשר עם עמית קדר עוד היום לתיאום פגישת ייעוץ ללא התחייבות. יחד נתכנן ציר זמן צילום מושלם לאירוע שלך. השאר פרטים ונחזור אליך מיד!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ed60244b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ed60244b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ed60244b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-ed60244b.zappy5.app/contact
-- Endpoint: https://-ed60244b.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Event Photography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ed60244b.zappy5.app/sitemap.xml
-- Robots: https://-ed60244b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ed60244b.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
